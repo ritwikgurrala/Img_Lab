@@ -4,12 +4,12 @@
 Label Studio is a modern, multi-modal data annotation tool
 =======
 
-LabelImg, the popular image annotation tool created by Tzutalin with the help of dozens contributors, is no longer actively being developed and has become part of the Label Studio community. Check out `Label Studio <https://github.com/heartexlabs/label-studio>`__, the most flexible open source data labeling tool for images, text, hypertext, audio, video and time-series data. `Install <https://labelstud.io/guide/install.html>`__ Label Studio and join the `slack community <https://label-studio.slack.com/>`__ to get started.
+Img_Lab, the popular image annotation tool created by Tzutalin with the help of dozens contributors, is no longer actively being developed and has become part of the Label Studio community. Check out `Label Studio <https://github.com/heartexlabs/label-studio>`__, the most flexible open source data labeling tool for images, text, hypertext, audio, video and time-series data. `Install <https://labelstud.io/guide/install.html>`__ Label Studio and join the `slack community <https://label-studio.slack.com/>`__ to get started.
 
 .. image:: /readme/images/label-studio-1-6-player-screenshot.png
         :target: https://github.com/heartexlabs/label-studio
 
-About LabelImg
+About Img_Lab
 ========
 
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
@@ -27,7 +27,7 @@ About LabelImg
 .. image:: https://img.shields.io/badge/lang-jp-green.svg
         :target: https://github.com/tzutalin/labelImg/blob/master/readme/README.jp.rst
 
-LabelImg is a graphical image annotation tool.
+Img_Lab is a graphical image annotation tool.
 
 It is written in Python and uses Qt for its graphical interface.
 
